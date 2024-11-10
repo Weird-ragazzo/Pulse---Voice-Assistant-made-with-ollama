@@ -6,7 +6,7 @@ Welcome to **Pulse**, your interactive **Python Voice Assistant**! This project 
 
 ## 🚀 Features
 
-- **🗣 Voice Activation**: Start conversations hands-free, making interaction smooth and intuitive.
+- **🗣 Voice Activation**: Start conversations hands-free, making interaction smooth & intuitive.
 - **🤖 AI Integration**: Utilizes advanced AI models for intelligent and informative responses based on your queries.
 - **👋 Simple Exit Command**: Just say "exit" to gracefully end your conversation.
 
